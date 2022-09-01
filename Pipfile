@@ -17,6 +17,7 @@ termcolor = "*"
 uvicorn = "*"
 fastapi = "*"
 pydantic = "*"
+pylint = "*"
 
 [dev-packages]
 
